@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Environments
+venv/
+.venv/
+env/
+myvenv/
+hnds_on_cv/
+
+# Large Video & Media files (avoids GitHub file size limit errors)
+*.mp4
+*.avi
+*.mov
+*.mkv
+output/
+test_videos/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
